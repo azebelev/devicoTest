@@ -1,0 +1,34 @@
+header {
+  display:grid;
+  grid-template-columns: 2fr 2fr 1fr;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius:1%;
+  text-align: center;
+  line-height: 40px;
+  color:cadetblue;
+  background: radial-gradient(ellipse at bottom, #87e0fd 0%,#01262b 55%);
+  position:sticky;
+  top:0px
+}
+
+.header_button {
+  margin: auto;
+  padding: 10px 20px;
+  background:linear-gradient(#87e0fd 0%,#394446 55%);
+  border-radius: 5px;
+  color:antiquewhite;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  /* height: 44px;
+  line-height: 30px; */
+  text-align: center;
+}
+.header_title h1 span{
+  color: brown;
+}
+
+.header_github a {
+  text-decoration-line: none;
+  color:brown;
+  font-weight: 1000;
+}
