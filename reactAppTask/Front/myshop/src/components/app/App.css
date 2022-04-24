@@ -5,5 +5,15 @@
 
 }
 
+@media (max-width:430px) {
+  .App {
+  text-align: center;
+  margin:auto;
+  transform: translateX(-5px);
+ }
+}
+
+
+
 
 

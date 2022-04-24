@@ -8,19 +8,19 @@ header {
   color:cadetblue;
   background: radial-gradient(ellipse at bottom, #87e0fd 0%,#01262b 55%);
   position:sticky;
-  top:0px
+  top:0px;
+  min-width: 344px;
 }
 
 .header_button {
-  margin: auto;
+  margin: 10px 15px;
   padding: 10px 20px;
   background:linear-gradient(#87e0fd 0%,#394446 55%);
   border-radius: 5px;
   color:antiquewhite;
   cursor: pointer;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
-  /* height: 44px;
-  line-height: 30px; */
+ 
   text-align: center;
 }
 .header_title h1 span{

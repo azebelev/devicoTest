@@ -8,3 +8,8 @@
   width: 100%;
 }
 
+@media (max-width:581px) {
+  .table {
+    font-size: x-small;
+  }
+}
